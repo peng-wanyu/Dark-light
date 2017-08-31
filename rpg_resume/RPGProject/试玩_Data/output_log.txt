@@ -1,0 +1,130 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\pengwanyu\Desktop\...彭万瑜U3d面试\rpg_resume - 副本\RPGProject\试玩_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.231 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.175905 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.205876 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4555.
+Total: 1.855267 ms (FindLiveObjects: 0.154366 ms CreateObjectMapping: 0.069382 ms MarkObjects: 0.300931 ms  DeleteObjects: 1.330587 ms)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at UnityEngine.Component.get_tag () [0x00000] in <filename unknown>:0 
+  at PlayerDir.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 27cc -> priority: 1 
+  Thread -> id: a8c -> priority: 1 
+  Thread -> id: 143c -> priority: 1 
+  Thread -> id: 2260 -> priority: 1 
